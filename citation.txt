@@ -1,0 +1,7 @@
+@article{REPO387,
+    author = "Kim, Boah and Oh, Yujin and Ye, Jong-Chul",
+    journal = "ArXiv",
+    title = "{Diffusion Adversarial Representation Learning for Self-supervised Vessel Segmentation}",
+    volume = "abs/2209.14566",
+    year = "2022"
+}
